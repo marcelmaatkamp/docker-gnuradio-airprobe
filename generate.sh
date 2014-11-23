@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t marcelmaatkamp/gnuradio-airprobe:latest .
+docker build -t marcelmaatkamp/docker-gnuradio-airprobe:latest .
